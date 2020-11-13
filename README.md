@@ -8,10 +8,10 @@ NEU-Python 东北大学校园工具箱
 from NEU import neu
 
 ## ❤二 功能概述
-&nbsp;本模块由一个neu类构成。首先，你需要声明一个对象：
-举个栗子~
-person = neu(学号,密码)  #声明person对象
+&nbsp;本模块由一个neu类构成。完全采用http requests response session实现，适合各类能跑Python环境的设备！！（悄悄的说一句，Android手机也可以噢！）。
 
+&nbsp;首先，你需要声明一个对象，举个栗子~
+person = neu(学号,密码)  #声明person对象
 &nbsp;接下来，就可以愉快的玩耍了~ 罗列一下对象功能表
 1. 对象名.ipgw.connect()  #连接校园网
 2. 对象名.ipgw.info()  #校园网余额查询
