@@ -12,7 +12,8 @@ from NEU import neu
 
 &nbsp;首先，你需要声明一个对象，举个栗子~
 person = neu(学号,密码)  #声明person对象
-&nbsp;接下来，就可以愉快的玩耍了~ 罗列一下对象功能表
+&nbsp;接下来，就可以愉快的玩耍了~ 
+以下是对象功能表：
 1. 对象名.ipgw.connect()  #连接校园网
 2. 对象名.ipgw.info()  #校园网余额查询
 3. 对象名.work.gpa()  #查询gpa
